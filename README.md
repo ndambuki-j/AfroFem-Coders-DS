@@ -1,1 +1,3 @@
-# AfroFem-Coders-DS
+# AfroFem-Coders
+# Data-Science-Course-Projecs
+
